@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with QuikChat
+
+QuikChat is an instant messaging app created using ReactJS, NodeJS and Firebase.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
